@@ -8,8 +8,8 @@
 ```git push```  is used to upload your local commits to a remote repository  
 
 ```git clone``` Copy the remote repository to your local system  
-```git fetch``` Gets Updates, new branches & commits from remote, keeps working branch unchanged (Refresh) 
-```git pull```  is used to updatethe  current local branch with the latest changes from the remote repository    
+```git fetch``` Gets Updates, new branches & commits from remote, keeps working branch unchanged (Refresh)  
+```git pull```  is used to updatethe  current local branch with the latest changes from the remote repository      
 
 ## Git Branching
 
