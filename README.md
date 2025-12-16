@@ -2,6 +2,7 @@
 ## Basic git commands
 
 ```
+bash
 git clone  -----> copy the remote repository to your local system
 ```
 ```
