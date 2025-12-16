@@ -5,6 +5,6 @@
 ```git init``` initialises a new repository in your project directory and contains all metadata  
 ```git add <fileName>``` Stages a specific file, and ```git add (.)``` Stages all changes in the current directory and subdirectories  
 ```git status```  Check the current state of your working directory and staging area.  
-```git log --online``` Displays commit history in a compact, single-line format
-```git push```  is used to upload your local commits to a remote repository
+```git log --online``` Displays commit history in a compact, single-line format  
+```git push```  is used to upload your local commits to a remote repository  
 
