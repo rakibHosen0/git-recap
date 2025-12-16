@@ -20,3 +20,10 @@
 ```git branch``` show all branch in local
 ```git branch -a /-r``` shows all branch in local and remote repository
 
+## Git reset (--soft, --mixed, --hard)[remove commit]
+```git reset --mixed <commitHash>``` is used to move HEAD to an earlier commit while keeping your file changes in the working directory but removing them from the staging area.  
+```git reset --soft <commitHash>``` is used to move HEAD to an earlier commit while keeping all changes staged.  
+```git reset --hard <commitHash>```  completely moves your repository back to a specific commit and removes all changes after that commit.
+
+## Add and Edit commit --amend
+``` git commit --amend``` add new feature and edit commit massage  
