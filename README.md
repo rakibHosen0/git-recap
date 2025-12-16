@@ -1,4 +1,5 @@
 # Git Recap For DevOps
+
 ## Basic git commands
 
 ```git clone```copies the remote repository to your local system  
@@ -8,3 +9,4 @@
 ```git log --online``` Displays commit history in a compact, single-line format  
 ```git push```  is used to upload your local commits to a remote repository  
 
+## Git Branching
